@@ -1,4 +1,4 @@
 # Taller01-Ramas
-![Imagen Silvia Saquisili](https://espolec-my.sharepoint.com/:i:/g/personal/ssaquisi_espol_edu_ec/EeDtpEAZxUdHuKNMYIpBWdkBMXB1kV-X3Wsk7aLjAp6-LA?e=O16RWi)
+![image](https://github.com/KevinJSalazar/Taller01-Ramas/assets/116833877/a55124fa-0621-41a6-9f47-01f4a35aeb46)
 
  
