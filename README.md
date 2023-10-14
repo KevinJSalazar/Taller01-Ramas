@@ -4,3 +4,5 @@
 
 ![imagen](https://espolec-my.sharepoint.com/:i:/g/personal/kejosala_espol_edu_ec/EYii-0d2ouZEiHnfy8nTgKkBpglPwHmkh370v56GkdzAOA?e=rANKVt)
 >>>>>>> 3172d7bf38d9202e00488425eb577588cae46deb
+
+![Imagen Nicolás Sierra](https://espolec-my.sharepoint.com/:i:/g/personal/nasierra_espol_edu_ec/Ef1vE6kJnTNAuCPvBSDeojQBtGqsrPHp7ZF05OTkC4OxEg?e=0IZOvv)
