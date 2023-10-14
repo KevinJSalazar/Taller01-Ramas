@@ -1,2 +1,2 @@
 # Taller01-Ramas
-![imagen](https://espolec-my.sharepoint.com/:i:/g/personal/kejosala_espol_edu_ec/EYii-0d2ouZEiHnfy8nTgKkBpglPwHmkh370v56GkdzAOA?e=rANKVt)
+![imagen](https://github.com/KevinJSalazar/Taller01-Ramas/assets/137641381/59773a4f-fd33-4770-82ec-d03acb7ee67d)
