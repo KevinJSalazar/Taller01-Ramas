@@ -8,8 +8,9 @@
 <?import javafx.scene.layout.VBox?>
 <?import javafx.scene.text.Font?>
 
-<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/20.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="espol.poo.topmusical.PrimaryController">
-   <center>
+<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1" fx:controller="espol.poo.topmusical.PrimaryController">
+       
+<center>
       <VBox fx:id="vbTop10" prefHeight="351.0" prefWidth="449.0" BorderPane.alignment="CENTER">
          <BorderPane.margin>
             <Insets top="20.0" />
@@ -43,4 +44,11 @@
          </font>
       </Label>
    </top>
+   <bottom>
+      <Label text="By Grupo5" BorderPane.alignment="CENTER_RIGHT">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Label>
+   </bottom>
 </BorderPane>
